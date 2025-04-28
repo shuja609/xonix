@@ -1,0 +1,63 @@
+# Compiled object files
+*.o
+*.obj
+*.slo
+*.lo
+*.ko
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.la
+*.lai
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+bin/
+
+# IDE specific files
+.vs/
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+# Game specific
+*.log
+highscores.txt
+scores.txt
+
+# SFML-related files that might be downloaded/extracted
+SFML*/
+
+# Backup files
+*~
+*.bak
